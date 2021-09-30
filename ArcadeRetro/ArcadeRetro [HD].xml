@@ -1,6 +1,6 @@
 <ImageComposition xsi:noNamespaceSchemaLocation="https://www.skraper.net/ImageComposition.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Information ShortName="RetroArcade HD"
-               LongName="RetroArcade HD"
+  <Information ShortName="ArcadeRetro HD"
+               LongName="ArcadeRetro HD"
                Description="Arcade cabinet w/ resources mapping"
                Author="retro81" />
   <Viewport Color="#00FFFFFF" Width="960" Height="960" />
