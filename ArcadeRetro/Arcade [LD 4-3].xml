@@ -16,7 +16,7 @@
           <Children Reference="Parent">
             <!-- Projected screenshot -->
             <Item Type ="Include" LocalFilePath="ScreenShot.include.xml">
-              <Display Mode="Distord" X="21.00%" Y="29.00%" X2="79.00%" Y2="29.00%" X3="81.00%" Y3="66.00%" X4="19.50%" Y4="66.00%" Antialiasing="High" />
+              <Display Mode="Distord" X="21.00%" Y="29.00%" X2="79.00%" Y2="29.00%" X3="81.00%" Y3="65.50%" X4="19.50%" Y4="65.50%" Antialiasing="High" />
             </Item>
             <!-- Projected marquee -->
             <Item Type ="Marquee">
